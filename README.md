@@ -1,4 +1,5 @@
 ### Hello/"Namaste"!! 👋/🙏
-This is Raj Kunwar. (fullstack developer)
+This is Raj Kunwar.
+Solving my life through code
 
 
