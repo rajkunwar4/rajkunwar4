@@ -1,7 +1,6 @@
 ### Hello👋
 
-This is Raj Kunwar.
-
-Currently Working on dreams and code.
+This is Raj.
+- Currently Working on dreams and code.
 
 
