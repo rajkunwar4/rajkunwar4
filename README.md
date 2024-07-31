@@ -1,7 +1,7 @@
-### Hello/"Namaste"!! 👋/🙏
+### Hello👋
 
 This is Raj Kunwar.
 
-Solving my life through code
+Currently Working on dreams and code.
 
 
