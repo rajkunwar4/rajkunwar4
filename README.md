@@ -1,6 +1,6 @@
 ### Hello👋
 
 This is Raj.
-- Currently Working on dreams and code.
+Currently Working on dreams and code.
 
 
