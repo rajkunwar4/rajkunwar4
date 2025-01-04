@@ -6,7 +6,7 @@ Full Stack Developer at Bloomtide Consulting
 
 🏠 Mumbai, India (I live on the web)
 
-💻 Full Stack Development (bad at frontend, bad at backend, bad at devops, bad at everything = full stack)
+💻 Full Stack Developer (bad at frontend, bad at backend, bad at devops, bad at everything = full stack)
 
 🚀 Building impactful web solutions (I write jsx/tsx mostly)
 
