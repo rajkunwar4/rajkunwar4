@@ -1,6 +1,6 @@
 ### Hey, I am Raj!
 
-Full Stack Developer at Bloomtide Consulting
+Full Stack Developer
 
 ### About
 
@@ -8,7 +8,7 @@ Full Stack Developer at Bloomtide Consulting
 
 💻 Full Stack Developer (bad at frontend, bad at backend, bad at devops, bad at everything = full stack)
 
-🚀 Building impactful web solutions (I write jsx/tsx mostly)
+🚀 Building impactful web solutions (I write jsx/tsx for a living)
 
 ### Contact
 
